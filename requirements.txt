@@ -1,0 +1,9 @@
+streamlit
+requests
+pymysql
+streamlit-calendar
+BeautifulSoup4
+langchain
+langchain-openai
+openai
+python-dotenv
